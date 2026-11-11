@@ -148,4 +148,3 @@ O modelo oficial declara as juntas `joint1` a `joint7` e os atuadores `act1` a `
 - O projeto depende de conexão com a internet uma única vez para obter o modelo e as malhas oficiais.
 - As poses A e B são referências articulares demonstrativas, não resultados de cinemática inversa.
 - A cena não possui sensores, esteira animada ou agarramento de peças.
-- Antes da gravação final, observe a simulação e ajuste as poses se necessário para evitar colisões ou posições visualmente inadequadas.
