@@ -40,7 +40,7 @@ chmod +x setup_model.sh
 Windows PowerShell:
 
 ```powershell
-git clone <URL_DO_SEU_REPOSITORIO>
+git clone https://github.com/Matheus-Melo-dos-Santos/mujoco_xarm7_project
 cd mujoco_xarm7_project
 
 py -m venv .venv
